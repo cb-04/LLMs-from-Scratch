@@ -45,6 +45,7 @@ datasets/
 checkpoints/
 outputs/
 runs/
+models/
 
 # Model artifacts
 *.pt
